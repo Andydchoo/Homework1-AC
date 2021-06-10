@@ -4,16 +4,6 @@
     margin: 0;
 }
 
-/* Adding image for the background and adjusting properties */
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
 /* Changing the background color */
 body {
     background-color: #d9dcd6;
@@ -67,6 +57,16 @@ a {
 /* Changing all p font size to 16px */
 p {
     font-size: 16px;
+}
+
+/* Adding image for the background and adjusting properties */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 /* Creating and styling boxes for "services" */
